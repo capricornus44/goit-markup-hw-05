@@ -446,15 +446,15 @@ img {
   line-height: 1.17;
 }
 
-.social-list {
+.social-list-light {
   display: flex;
 }
 
-.social-list > .item:not(:last-child) {
+.social-list-light > .item:not(:last-child) {
   margin-right: 10px;
 }
 
-.social-list .link {
+.social-list-light .link {
   display: block;
   width: 44px;
   height: 44px;
